@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(https://img.nogizaka46.com/www/img/bg.jpg);
+    background-repeat: repeat-x;
+}
+
+.h-100px{
+    height: 100px;
+}
+.bg-white{
+    background-color: white;
+}
